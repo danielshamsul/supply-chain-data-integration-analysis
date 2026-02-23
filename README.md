@@ -39,15 +39,17 @@ The datasets used in this project are publicly available on Kaggle:
 - Demonstrated the value of integrating multiple data sources for better operational visibility
 
 ## Project Structure
+```
 supply-chain-data-integration-analysis/
 │
 ├── notebooks/
-│ └── Integrating_Supply_Chain.ipynb
+│   └── Integrating_Supply_Chain.ipynb
 ├── data/
 ├── assets/
-│ └── (visualizations)
+│   └── (visualizations)
 ├── README.md
 └── requirements.txt
+```
 
 ## How to Run
 1. Download datasets from Kaggle links above
@@ -55,4 +57,4 @@ supply-chain-data-integration-analysis/
 3. Run the notebook:
 
 ```bash
-jupyter notebook notebooks/Integrating_Supply_Chain.ipynb
+notebooks/Integrating_Supply_Chain.ipynb
