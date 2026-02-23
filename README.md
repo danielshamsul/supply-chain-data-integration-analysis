@@ -45,6 +45,8 @@ supply-chain-data-integration-analysis/
 ├── notebooks/
 │   └── Integrating_Supply_Chain.ipynb
 ├── data/
+│   └── supply_chain_data.csv
+│   └── product-supplier.csv
 ├── assets/
 │   └── (visualizations)
 ├── README.md
